@@ -3,7 +3,8 @@ Data + Design enthusiast<br>Excel for analysis | Figma for creativity<br>Buildin
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Yash Supare](https://www.linkedin.com/in/yash-supare-a10443346?utm_source=share_via&utm_content=profile&utm_medium=member_ios))<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+([https://linkedin.com/in/Yash Supare](https://www.linkedin.com/in/yash-supare-a10443346?utm_source=share_via&utm_content=profile&utm_medium=member_ios))<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 (mailto:yashsupare913@gmail.com) 
 
 # 💻 Tech Stack:
