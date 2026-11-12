@@ -28,7 +28,3 @@ I enjoy working on projects that combine web development, design and technology.
 - Improving my frontend development skills.
 - Exploring AI-powered web applications.
 - Building practical projects and expanding my portfolio.
-
-### Connect With Me
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
